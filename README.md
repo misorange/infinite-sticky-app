@@ -4,6 +4,8 @@
 ![Project Banner](img/0.png)
 
 ## デモサイトについて 
+https://misorange.github.io/infinite-sticky-app/
+
 GitHub Pages上のデモはフロントエンドのUI確認用です。
 
 バックエンドサーバー（API/DB）とは接続されていないため、タスクの追加・保存・削除などの機能は動作しません。完全な動作を確認する場合は、ローカル環境で実行してください。
